@@ -3,7 +3,8 @@
 For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in the file 'PriorityBased.cs', and the Best-first one is in 'BestFirstAlgorithm.cs' file.
 
 *How to run the AI in Unity
-1. Download all files in the folder.
+
+1. Download all files in the folders.
 2. Build a project contains the folder with all files.
 3. After done building and importing file, there will be a scene in the center of the screen, which is our game. Click on the (pretty) small play button above the scene to run the game.
 4. There are indeed four modes in the game:
@@ -12,4 +13,4 @@ For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in th
 - Best-First Mode: check the toggle named Best-first Algorithm. This will choose the best move according to our heuristic functions.
 - Priority-Based: check the toggle named Priority-Based. This will choose the move which has highest priority.
 
-If you want to run the application (without actually build it in Unity), download the folder name ‘Application’ with a sub-folder contains game data and an .exe file in it. Run the .exe file to play the game. Have fun!
+If you want to run the application (without actually build it in Unity), download the folder named ‘Application’ with a sub-folder contains game data and an .exe file in it. Run the .exe file to play the game. Have fun!
