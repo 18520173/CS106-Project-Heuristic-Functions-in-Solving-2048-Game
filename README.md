@@ -1,6 +1,6 @@
 # CS106 Project: Heuristic Functions in Solving 2048 Game
 
-**Credit:** for Dev Tutorials for the UI and the basic functions of the game. We only implement the AI part onto their game, we did not really build the whole game (but we did make some modification).\
+**Credit:** for Dev Tutorials for the UI and the basic functions of the game. We only implement the AI part onto their game, we did not really build the whole game (but we did make some modification).
 
 For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in the file 'PriorityBased.cs', and the Best-first one is in 'BestFirstAlgorithm.cs' file.
 
