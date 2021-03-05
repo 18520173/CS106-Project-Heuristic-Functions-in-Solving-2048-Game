@@ -1,6 +1,7 @@
 # CS106 Project: Heuristic Functions in Solving 2048 Game
 
 For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in the file 'PriorityBased.cs', and the Best-first one is in 'BestFirstAlgorithm.cs' file.
+
 *How to run the AI in Unity
 1. Download all files in the folder.
 2. Build a project contains the folder with all files.
@@ -10,3 +11,5 @@ For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in th
 - Random Mode: check the toggle named Random. This will randomly move the tiles in every direction.
 - Best-First Mode: check the toggle named Best-first Algorithm. This will choose the best move according to our heuristic functions.
 - Priority-Based: check the toggle named Priority-Based. This will choose the move which has highest priority.
+
+If you want to run the application (without actually build it in Unity), download the folder name ‘Application’ with a sub-folder contains game data and an .exe file in it. Run the .exe file to play the game. Have fun!
