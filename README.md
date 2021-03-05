@@ -14,3 +14,5 @@ For the AI implementation, go to Assets/Scripts/. The Priority-based AI is in th
 - Priority-Based: check the toggle named Priority-Based. This will choose the move which has highest priority.
 
 If you want to run the application (without actually build it in Unity), download the folder named ‘Application’ with a sub-folder contains game data and an .exe file in it. Run the .exe file to play the game. Have fun!
+
+For an insight of the implementation, please read 'Report'.
